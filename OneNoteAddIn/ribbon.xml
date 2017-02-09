@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui" loadImage="GetImage">
+  <ribbon>
+    <tabs>
+      <tab id="tabCustom" label="Reloader">
+        <group id="groupHello" label="Reload LearningTools!">
+          <button id="buttonHello" label="Reload LearningTools!" size="large" screentip="Press to reload Learning Tools" onAction="reloadAddInLT"/>
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
