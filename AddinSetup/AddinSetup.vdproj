@@ -15,14 +15,14 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_59647FC199508B178F0328E03929CAA4"
-        "OwnerKey" = "8:_5B99B4FFCF884B0C8049E360C8C68B9D"
+        "MsmKey" = "8:_5B99B4FFCF884B0C8049E360C8C68B9D"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_5B99B4FFCF884B0C8049E360C8C68B9D"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_705E5DFDA1278AE0591E7DAE151C5B17"
+        "OwnerKey" = "8:_5B99B4FFCF884B0C8049E360C8C68B9D"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -33,18 +33,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_C2BF89AFB60F9854F0CA07E033AC072B"
-        "OwnerKey" = "8:_59647FC199508B178F0328E03929CAA4"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_AE1C76BE3B73ECD963B51081DC428885"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_5B99B4FFCF884B0C8049E360C8C68B9D"
         "MsmSig" = "8:_UNDEFINED"
@@ -52,13 +40,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_59647FC199508B178F0328E03929CAA4"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_C2BF89AFB60F9854F0CA07E033AC072B"
+        "OwnerKey" = "8:_AE1C76BE3B73ECD963B51081DC428885"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -156,21 +138,10 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_59647FC199508B178F0328E03929CAA4"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_705E5DFDA1278AE0591E7DAE151C5B17"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:TRUE"
-            "AssemblyAsmDisplayName" = "8:office, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_59647FC199508B178F0328E03929CAA4"
-                    {
-                    "Name" = "8:Office.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Office.dll"
-            "TargetName" = "8:"
+            "SourcePath" = "8:OneNoteAddIn.tlb"
+            "TargetName" = "8:OneNoteAddIn.tlb"
             "Tag" = "8:"
             "Folder" = "8:_C94A7E76DB734EE1893543212080F530"
             "Condition" = "8:"
@@ -182,7 +153,7 @@
             "Permanent" = "11:FALSE"
             "SharedLegacy" = "11:FALSE"
             "PackageAs" = "3:1"
-            "Register" = "3:1"
+            "Register" = "3:2"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
@@ -201,37 +172,6 @@
                     }
                 }
             "SourcePath" = "8:System.Net.Http.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_C94A7E76DB734EE1893543212080F530"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_C2BF89AFB60F9854F0CA07E033AC072B"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:TRUE"
-            "AssemblyAsmDisplayName" = "8:stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
-                "ScatterAssemblies"
-                {
-                    "_C2BF89AFB60F9854F0CA07E033AC072B"
-                    {
-                    "Name" = "8:stdole.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:stdole.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_C94A7E76DB734EE1893543212080F530"
@@ -279,7 +219,7 @@
             }
             "{3C67513D-01DD-4637-8A68-80971EB9504F}:_C94A7E76DB734EE1893543212080F530"
             {
-            "DefaultLocation" = "8:[ProgramFiles64Folder][Manufacturer]\\[ProductName]"
+            "DefaultLocation" = "8:[ProgramFilesFolder][Manufacturer]\\[ProductName]"
             "Name" = "8:#1925"
             "AlwaysCreate" = "11:FALSE"
             "Condition" = "8:"
@@ -327,7 +267,7 @@
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
-        "TargetPlatform" = "3:1"
+        "TargetPlatform" = "3:0"
         "PreBuildEvent" = "8:"
         "PostBuildEvent" = "8:"
         "RunPostBuildEvent" = "3:0"
@@ -1361,7 +1301,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_5B99B4FFCF884B0C8049E360C8C68B9D"
             {
-            "SourcePath" = "8:..\\OneNoteAddIn\\obj\\x64\\Debug\\OneNoteAddIn.dll"
+            "SourcePath" = "8:..\\OneNoteAddIn\\obj\\Debug\\OneNoteAddIn.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_C94A7E76DB734EE1893543212080F530"
