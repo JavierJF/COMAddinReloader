@@ -1,9 +1,0 @@
-C:\Users\Javier\documents\visual studio 2015\Projects\OneNoteAddIn\OneNoteAddIn\bin\x64\Debug\OneNoteAddIn.dll
-C:\Users\Javier\documents\visual studio 2015\Projects\OneNoteAddIn\OneNoteAddIn\bin\x64\Debug\OneNoteAddIn.pdb
-C:\Users\Javier\documents\visual studio 2015\Projects\OneNoteAddIn\OneNoteAddIn\bin\x64\Debug\OneNoteAddIn.tlb
-C:\Users\Javier\documents\visual studio 2015\Projects\OneNoteAddIn\OneNoteAddIn\bin\x64\Debug\Interop.Microsoft.Office.Interop.OneNote.dll
-C:\Users\Javier\documents\visual studio 2015\Projects\OneNoteAddIn\OneNoteAddIn\obj\x64\Debug\OneNoteAddIn.csproj.ResolveComReference.cache
-C:\Users\Javier\documents\visual studio 2015\Projects\OneNoteAddIn\OneNoteAddIn\obj\x64\Debug\OneNoteAddIn.Properties.Resources.resources
-C:\Users\Javier\documents\visual studio 2015\Projects\OneNoteAddIn\OneNoteAddIn\obj\x64\Debug\OneNoteAddIn.csproj.GenerateResource.Cache
-C:\Users\Javier\documents\visual studio 2015\Projects\OneNoteAddIn\OneNoteAddIn\obj\x64\Debug\OneNoteAddIn.dll
-C:\Users\Javier\documents\visual studio 2015\Projects\OneNoteAddIn\OneNoteAddIn\obj\x64\Debug\OneNoteAddIn.pdb
